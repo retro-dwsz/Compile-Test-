@@ -1,3 +1,6 @@
+; USE THIS TO RE-COMPILE IF YOU HAVE LLVM CLANG
+; GUNAKAN INI UNTUK COMPILE ULANG JIKA KALIAN PUNYA LLVM CLANG
+
 ; ModuleID = 'main.cpp'
 source_filename = "main.cpp"
 target datalayout = "e-m:w-p270:32:32-p271:32:32-p272:64:64-i64:64-i128:128-f80:128-n8:16:32:64-S128"
