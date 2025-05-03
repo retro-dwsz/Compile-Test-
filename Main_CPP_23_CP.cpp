@@ -52,14 +52,14 @@
         #define COMPILER "Clang"
         #include <windows.h>
         #include <malloc.h>
-        //! ACTUNG: Redefine DWORD will cause warning!
+        //! ACHTUNG: Redefine DWORD will cause warning!
         // using DWORD = unsigned int;
         
     #elif defined(_MSC_VER)
         #define FMT_HEADER_ONLY // Required for fmt in header-only mode
         #define COMPILER "MSVC"
         #include <Windows.h>
-        //! ACTUNG: Redefine DWORD will cause warning!
+        //! ACHTUNG: Redefine DWORD will cause warning!
         // using DWORD = unsigned int;
 
     #else
