@@ -9,6 +9,11 @@
 - Numbers Brute-forcing: 6 digits, each digit is from 0 to 9
 */
 
+/*! ATTENTION!
+* THIS IS THE CP "CROSS PLATFORM" VERSION OF `Main_CPP_23.cpp`
+* YOU MAY USE THIS IF YOU'RE ON LINUX
+*/
+
 
 #define NOMINMAX
 
